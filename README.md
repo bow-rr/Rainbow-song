@@ -2,4 +2,6 @@
 
 A song about rainbow.
 
+The song is a happy song.
+
 
